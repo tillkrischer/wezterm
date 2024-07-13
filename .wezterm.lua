@@ -9,7 +9,7 @@ config.keys = {
   {
     key = ' ',
     mods = 'CTRL',
-    action = act.SendKey {
+    action = wezterm.action.SendKey {
       key = ' ',
       mods = 'CTRL',
     },
